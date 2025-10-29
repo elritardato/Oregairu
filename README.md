@@ -16,16 +16,37 @@
 
 ## Installation
 
-To install **Oregairu** theme, run the following command:
+#### HyDE Project
 
+To install **Oregairu** on `HyDE Project`, run the following command:
+```sh
+hydectl theme import --name "Oregairur" --url https://github.com/elritardato/Oregairu
+```
+
+Alternatively, you can import the theme by running:
+```sh
+hydectl theme import
+```
+
+Then choose **Oregairu** from the options.
+
+#### Hyprdots
+
+To install **Oregairu** on `Hyprdots`, run the following command:
 ```sh
 Hyde theme import "Oregairu" https://github.com/elritardato/Oregairu
 ```
 
 Alternatively, you can import the theme by running:
-
 ```sh
-hydectl theme import
+Hyde theme import
 ```
 
-Then choose Oregairu from the options.
+Then choose **Oregairu** from the options.
+
+#### General
+
+Alternatively, you can use a general option that works on both `HyDE Project` and `Hyprdots`:
+```sh
+~/HyDE/Scripts/themepatcher.sh "Oregairu" https://github.com/elritardato/Oregairu
+```
