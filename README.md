@@ -25,7 +25,7 @@ Hyde theme import "Oregairu" https://github.com/elritardato/Oregairu
 Alternatively, you can import the theme by running:
 
 ```sh
-Hyde theme import
+hydectl theme import
 ```
 
 Then choose Oregairu from the options.
