@@ -8,7 +8,7 @@
 <div align="center"><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png"><br><br></div>
 
 > **IMPORTANT**
-> This is not a standalone theme, it requires [HyDe](https://github.com/Hyde-project/hyde) to be installed.
+> This is not a standalone theme, it requires [HyDE](https://github.com/Hyde-project/hyde) to be installed.
 
 ![t1](./screenshots/1.png)
 ![t2](./screenshots/2.png)
