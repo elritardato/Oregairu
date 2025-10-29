@@ -20,7 +20,7 @@
 
 To install **Oregairu** on `HyDE Project`, run the following command:
 ```sh
-hydectl theme import --name "Oregairur" --url https://github.com/elritardato/Oregairu
+hydectl theme import --name "Oregairu" --url https://github.com/elritardato/Oregairu
 ```
 
 Alternatively, you can import the theme by running:
